@@ -1,19 +1,15 @@
 # git-1
 Git Module
 git 
-<hr>
-#📌 Markdown Formatting Guide  
+
+# Markdown Formatting Guide  
 
 ## 📖 Description  
 This document explains the **important Markdown syntax** used in README files, including text formatting, lists, links, images, and code blocks.  
 
 ## 📝 Important Syntax  
 
-### 🏷️ Headings  
-```markdown
-# Heading 1  
-## Heading 2  
-### Heading 3  ```
+
 
 
 For Bold use ** on both end → **Bold**  
@@ -21,12 +17,12 @@ For italic use * on both end → *Italic*
 For inline use ` on both end → `git clone URL`  
 
 
-- Home 
-- About  
-- Service
-  - Food Delivery
-  - Courier
-- Contact
+-Home 
+-About  
+-Service
+  -Food Delivery
+  -Courier
+-Contact
 
 # Tech Stack
 1. HTML
