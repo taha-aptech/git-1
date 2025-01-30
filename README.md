@@ -30,11 +30,21 @@ For inline use tilt sign on both end → `git clone URL`
 3. JS
 4. Bootstrap and JQuery
 
-```
+``` SQL
 SELECT * FROM students WHERE grade > 80 ORDER BY name ASC;
  ```
+
+```
+<div class="container my-3">
+    <div class="row">
+        <div class="col-md-12 text-center ">
+            <button  type="button" class="btn btn-outline-warning">Click here</button>
+        </div>
+    </div>
+ </div>
+```
 
 [Click Here]([https://example.com](https://getbootstrap.com/docs/5.0/components/navbar/))
 
 
-![Alt Text]([(https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHdlYnNpdGV8ZW58MHx8MHx8fDA%3D)])
+![Alt Text](https://aptech-education.com.pk/assets/images/logo.png)
