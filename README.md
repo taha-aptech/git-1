@@ -44,7 +44,7 @@ SELECT * FROM students WHERE grade > 80 ORDER BY name ASC;
  </div>
 ```
 
-[Click Here]([https://example.com](https://getbootstrap.com/docs/5.0/components/navbar/))
+[Click Here](https://getbootstrap.com/docs/5.0/components/navbar/)
 
 
 ![Alt Text](https://aptech-education.com.pk/assets/images/logo.png)
